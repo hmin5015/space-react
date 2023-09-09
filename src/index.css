@@ -41,7 +41,7 @@ header {
 
 main {
   width: 100%;
-  display: flex;
+  display: flex-start;
   flex-direction: column;
   flex-grow: 1;
   justify-content: center;
