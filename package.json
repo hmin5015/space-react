@@ -14,6 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "server": "npx json-server -p 3500 -w data/db.json",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
